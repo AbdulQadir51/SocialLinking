@@ -93,7 +93,7 @@ router.post('/:thoughtId/reactions', ({ params, body }, res) => {
         });
 });
 
-// Thought Reaction By Id Route
+// Delete Thought Reaction By Id Route
 //api/thoughts/:thoughtId/reactions/reactionId
 router.delete('/:thoughtId/reactions/:reactionId', ({ params }, res) => {
     Thought.findOneAndUpdate({ _id: params.thoughtId }, { $pull: { reactions: { reactionId: params.reactionId } } }, { runValidators: true, new: true })
