@@ -9,3 +9,7 @@ In the case of a social network API, WHEN I invoke the application, my server wi
 ## Video walkthrough links
 Part 1(Users and Thoughts) https://www.loom.com/share/104ed60487804100b2ed635fa0a1583a
 Part 2(Reactions and Friends) https://www.loom.com/share/91d3437c5f0847319ecc2619b187df80
+
+## Screenshots
+![screenshot 1](assets/images/screenshot1.png) 
+![screenshot 2](assets/images/screenshot2.png) 
