@@ -1,4 +1,4 @@
-# socialLinking
+# SocialLinking
 
 I am a start-up that wants to use a NoSQL database to power my social network API. To handle large amounts of unstructured data on my website
 
